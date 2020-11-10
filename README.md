@@ -1,9 +1,9 @@
-## Nama	:Febri Aditiya
-## Nim	:312010212
+## Nama		:Febri Aditiya
+## Nim		:312010212
 ## Kelas	:TI.20.A2
 ## Dosen	:Wahyu Hadikristanto,S.Kom.,M.Kom
 
-			## “Ujian Tengah Semester”
+			 â€œUjian Tengah Semesterâ€
 
 
 
